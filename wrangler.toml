@@ -1,10 +1,10 @@
-name = "siren"
+name = "royalivy"
 main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
 
 [[kv_namespaces]]
-binding = "siren"
+binding = "Royalivy"
 id = "8aab487f024c4cde8714ed56360df3ac"
 
 [build]
