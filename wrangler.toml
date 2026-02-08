@@ -5,7 +5,7 @@ minify = true
 
 [[kv_namespaces]]
 binding = "Royalivy"
-id = "8aab487f024c4cde8714ed56360df3ac"
+id = "STh0HvAVNcu2gFg6QIllIL5YpG2G1V8BcuJFVoyB"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
